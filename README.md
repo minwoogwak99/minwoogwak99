@@ -39,6 +39,8 @@
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/React-green?style=flat-square&logo=React&logoColor=white&color=%2361DAFB&link=https%3A%2F%2Freact.dev%2F)
+![Redux](https://img.shields.io/badge/Redux-white?style=flat-square&logo=Redux&logoColor=white&color=%23764ABC&link=https%3A%2F%2Fredux.js.org%2F
+)
 ![Static Badge](https://img.shields.io/badge/Next.js-white?style=flat-square&logo=nextdotjs&logoColor=black&link=https%3A%2F%2Fnextjs.org%2F)
 ![Static Badge](https://img.shields.io/badge/i18next-white?style=flat-square&logo=i18next&logoColor=white&color=%2326A69A&link=https%3A%2F%2Fwww.i18next.com%2F)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
