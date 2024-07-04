@@ -18,7 +18,7 @@
 
 - :school: I am a `Senior` at [College of Libral Arts and Science](https://las.illinois.edu/) in [UIUC](https://illinois.edu/) pursuing Mathematcis + Computer Science major
 - :trophy: `2020 PCC` Summa cum laude for `Graduation`
-- :technologist: **Currently working on** `Frontend Development`
+- :technologist: **Currently working as a** `Frontend Developer`
 - :email: Feel free to **reach me out** [![Static Badge](https://img.shields.io/badge/email-minwoogwak99-brightgreen)](mailto:minwoogwak99@gmail.com)
 - :nerd_face: Always believe `"You are what you loved"`
 
